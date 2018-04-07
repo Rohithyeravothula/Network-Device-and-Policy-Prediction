@@ -1,0 +1,139 @@
+IP Address,Mac address,Software Identification,Software Version,Open Ports,Device Class,Device Identification,Communication Ranges and Protocols
+192.168.100.70,000502ignore,64-Bit Journaling File System,v1,443-677,Laptop,Lenovo,tcp
+192.168.100.62,000502ignore,Unix,v5,4000-5676,Desktop,Lenovo thinkpad,http
+192.168.100.67,000A27ignore,NeXTSTEP,v1,80-484,Mobile,,http
+192.168.100.56,00012Aignore,64-Bit Journaling File System,v3,8972-32000,Desktop,Apple,generic
+23.41.47.209,000393ignore,The Shell Terminal,v4,8972-32000,Coffee Machine,Apple,udp
+34.194.245.63,000393ignore,MS-DOS,v2,443-677,Camera,Lenovo thinkpad,http
+52.109.2.129,000393ignore,64-Bit Journaling File System,v1,4000-5676,Camera,MBP,http
+52.54.203.230,000393ignore,NeXTSTEP,v3,22-500,Camera,Lenovo,generic
+192.168.100.65,00012Aignore,Unix,v1,22-500,Laptop,Apple,generic
+192.168.100.230,000A27ignore,Time Machine,v1,443-677,Laptop,MBP,tcp
+17.134.126.34,000502ignore,64-Bit Journaling File System,v4,27000-60000,Camera,Apple,tcp
+192.168.100.187,000A27ignore,Unix,v2,27000-60000,Coffee Machine,Lenovo,udp
+52.109.6.0,00012Aignore,Time Machine,v3,4000-5676,Camera,,http
+40.97.126.178,000A27ignore,Time Machine,v4,80-484,Coffee Machine,Lenovo,generic
+172.217.9.194,000393ignore,Ubuntu,v2,8972-32000,Laptop,Lenovo thinkpad,udp
+192.168.100.222,000502ignore,NeXTSTEP,v2,22-500,Mobile,MBP,generic
+192.168.100.206,000A27ignore,Time Machine,v5,443-677,Camera,Lenovo,http
+104.25.219.21,00012Aignore,Ubuntu,v5,8080-9000,Mobile,Lenovo thinkpad,udp
+172.217.9.211,00012Aignore,MS-DOS,v3,80-484,Laptop,Apple,http
+13.107.3.128,00012Aignore,Mac OS X,v2,443-677,Camera,,tcp
+172.217.3.206,000393ignore,64-Bit Journaling File System,v4,80-484,Mobile,Lenovo,generic
+40.112.143.140,000502ignore,Ubuntu,v3,22-500,Coffee Machine,,tcp
+224.0.0.22,000A27ignore,Simplified Linux Setup,v4,8080-9000,Desktop,Lenovo,tcp
+65.52.193.136,000A27ignore,MS-DOS,v3,8972-32000,Laptop,Lenovo thinkpad,udp
+23.38.185.173,000A27ignore,Ubuntu,v5,4000-5676,Mobile,MBP,http
+52.109.76.30,000502ignore,Unix,v5,27000-60000,Desktop,Lenovo,tcp
+52.109.2.124,000A27ignore,NeXTSTEP,v4,8972-32000,Camera,Lenovo thinkpad,udp
+52.109.12.23,00012Aignore,BeOS,v2,443-677,Laptop,Apple,http
+192.168.100.55,000502ignore,Ubuntu,v4,27000-60000,Desktop,Lenovo,http
+239.255.255.250,000502ignore,Mac OS X,v3,4000-5676,Desktop,Apple,udp
+52.109.6.5,000393ignore,Unix,v4,80-484,Coffee Machine,MBP,tcp
+192.168.100.236,000A27ignore,Unix,v5,4000-5676,Desktop,Lenovo,udp
+216.58.193.195,000502ignore,64-Bit Journaling File System,v4,8972-32000,Mobile,,http
+224.0.0.2,000A27ignore,The Shell Terminal,v1,80-484,Desktop,MBP,udp
+172.217.3.196,00012Aignore,IRIX SGI Dogfight,v3,80-484,Mobile,MBP,generic
+192.168.100.193,00012Aignore,64-Bit Journaling File System,v3,27000-60000,Camera,MBP,udp
+172.217.3.182,00012Aignore,Unix,v4,22-500,Desktop,Lenovo,tcp
+34.231.91.15,00012Aignore,Unix,v1,4000-5676,Mobile,Lenovo,generic
+172.217.3.202,000A27ignore,MS-DOS,v1,8080-9000,Coffee Machine,Apple,http
+52.10.116.64,000393ignore,The Shell Terminal,v3,443-677,Laptop,Lenovo thinkpad,generic
+17.142.171.14,000502ignore,Simplified Linux Setup,v2,4000-5676,Laptop,,generic
+34.206.243.251,000A27ignore,64-Bit Journaling File System,v5,27000-60000,Laptop,Lenovo,udp
+52.109.124.22,000393ignore,The Shell Terminal,v4,8972-32000,Mobile,Apple,tcp
+224.0.0.252,000393ignore,MS-DOS,v1,80-484,Coffee Machine,,generic
+23.53.112.132,000502ignore,64-Bit Journaling File System,v5,8972-32000,Camera,Apple,udp
+34.204.134.114,00012Aignore,The Shell Terminal,v5,443-677,Mobile,Lenovo thinkpad,generic
+192.168.100.229,00012Aignore,NeXTSTEP,v2,22-500,Desktop,Lenovo,generic
+52.109.120.22,00012Aignore,Unix,v2,22-500,Laptop,Lenovo thinkpad,generic
+52.109.124.20,000A27ignore,Time Machine,v3,8080-9000,Desktop,,tcp
+172.217.15.99,00012Aignore,Time Machine,v2,4000-5676,Mobile,MBP,http
+172.217.8.3,000A27ignore,Unix,v4,27000-60000,Camera,Apple,http
+40.78.98.202,000393ignore,BeOS,v3,80-484,Laptop,Apple,generic
+172.217.3.195,000A27ignore,IRIX SGI Dogfight,v3,8080-9000,Camera,,tcp
+23.100.72.33,00012Aignore,MS-DOS,v2,80-484,Mobile,MBP,udp
+192.168.100.166,000393ignore,The Shell Terminal,v5,8080-9000,Desktop,Apple,tcp
+172.217.12.225,00012Aignore,Mac OS X,v1,4000-5676,Camera,Lenovo thinkpad,udp
+192.168.100.160,000A27ignore,Simplified Linux Setup,v4,8972-32000,Coffee Machine,Lenovo thinkpad,tcp
+172.217.9.195,00012Aignore,Simplified Linux Setup,v1,8972-32000,Mobile,MBP,http
+17.134.127.250,000393ignore,Ubuntu,v5,80-484,Mobile,,http
+192.168.100.207,000A27ignore,64-Bit Journaling File System,v1,443-677,Laptop,MBP,udp
+17.167.194.149,000393ignore,Mac OS X,v4,22-500,Mobile,Apple,tcp
+192.168.100.255,00012Aignore,Simplified Linux Setup,v4,8080-9000,Laptop,,tcp
+40.97.155.194,000A27ignore,BeOS,v3,8080-9000,Coffee Machine,Apple,generic
+172.217.15.97,000502ignore,Unix,v2,80-484,Laptop,Lenovo thinkpad,udp
+172.217.5.243,000A27ignore,Time Machine,v1,27000-60000,Mobile,Apple,tcp
+255.255.255.255,00012Aignore,The Shell Terminal,v1,80-484,Mobile,Apple,generic
+151.101.193.69,000393ignore,64-Bit Journaling File System,v2,4000-5676,Laptop,Apple,udp
+192.168.100.197,000502ignore,MS-DOS,v1,80-484,Mobile,MBP,generic
+192.168.100.82,000A27ignore,The Shell Terminal,v4,8080-9000,Camera,MBP,udp
+192.168.100.69,00012Aignore,Time Machine,v4,8080-9000,Camera,Lenovo,http
+224.0.0.251,000A27ignore,IRIX SGI Dogfight,v1,8972-32000,Mobile,Apple,udp
+52.109.124.18,000A27ignore,MS-DOS,v5,8972-32000,Laptop,Lenovo,generic
+173.223.13.247,000393ignore,Unix,v3,22-500,Laptop,MBP,udp
+192.168.100.235,000393ignore,Simplified Linux Setup,v2,27000-60000,Coffee Machine,Lenovo,generic
+192.168.100.0,000A27ignore,64-Bit Journaling File System,v2,8972-32000,Desktop,,tcp
+172.217.8.10,000502ignore,Ubuntu,v2,22-500,Desktop,,http
+192.168.100.81,000502ignore,Mac OS X,v2,8080-9000,Coffee Machine,Apple,http
+192.168.100.10,00012Aignore,MS-DOS,v2,8080-9000,Laptop,Lenovo thinkpad,udp
+172.217.9.193,000393ignore,NeXTSTEP,v4,27000-60000,Laptop,Lenovo,generic
+ff02::1,000A27ignore,Time Machine,v1,27000-60000,Laptop,Lenovo thinkpad,generic
+192.0.73.2,00012Aignore,IRIX SGI Dogfight,v3,443-677,Laptop,Lenovo thinkpad,generic
+185.162.9.24,000393ignore,NeXTSTEP,v4,22-500,Camera,Lenovo,http
+192.168.100.8,000502ignore,IRIX SGI Dogfight,v2,8972-32000,Mobile,Lenovo thinkpad,http
+172.217.7.130,000A27ignore,Ubuntu,v3,4000-5676,Mobile,Lenovo thinkpad,tcp
+192.168.100.241,00012Aignore,BeOS,v2,27000-60000,Mobile,Lenovo,tcp
+192.168.100.2,000A27ignore,Unix,v4,8972-32000,Camera,,generic
+192.168.100.137,000502ignore,64-Bit Journaling File System,v4,8080-9000,Coffee Machine,MBP,generic
+52.214.88.39,000A27ignore,The Shell Terminal,v1,8080-9000,Camera,,generic
+216.58.193.74,000393ignore,BeOS,v1,27000-60000,Laptop,Lenovo,tcp
+65.52.193.138,000393ignore,Simplified Linux Setup,v5,8080-9000,Coffee Machine,,udp
+52.109.88.38,000393ignore,Ubuntu,v4,27000-60000,Laptop,Lenovo,udp
+172.217.11.67,000502ignore,Unix,v4,80-484,Laptop,Apple,generic
+192.168.100.100,000A27ignore,Ubuntu,v5,443-677,Laptop,,http
+52.109.6.40,00012Aignore,BeOS,v2,8080-9000,Mobile,Apple,tcp
+192.168.100.1,000502ignore,Time Machine,v3,80-484,Coffee Machine,Lenovo,generic
+65.52.193.137,000A27ignore,The Shell Terminal,v4,443-677,Camera,MBP,udp
+172.217.8.1,00012Aignore,Time Machine,v4,80-484,Desktop,,http
+17.167.192.128,000A27ignore,MS-DOS,v1,22-500,Laptop,Apple,http
+52.109.120.21,000A27ignore,NeXTSTEP,v2,8972-32000,Laptop,Apple,udp
+192.168.100.233,00012Aignore,NeXTSTEP,v2,80-484,Mobile,MBP,udp
+2001::9d38:90d7:3cb7:23f0:3373:4bfd,000502ignore,IRIX SGI Dogfight,v4,80-484,Laptop,,tcp
+216.58.216.168,00012Aignore,NeXTSTEP,v1,80-484,Mobile,Lenovo thinkpad,generic
+72.21.91.29,00012Aignore,Simplified Linux Setup,v1,8972-32000,Laptop,Lenovo,tcp
+192.168.100.237,000502ignore,Mac OS X,v3,80-484,Laptop,MBP,generic
+2001::9d38:90d7:ca9:1141:3373:4bfd,000502ignore,Time Machine,v4,8972-32000,Laptop,Apple,udp
+192.168.100.71,00012Aignore,NeXTSTEP,v5,22-500,Camera,,http
+172.217.15.98,00012Aignore,Simplified Linux Setup,v3,443-677,Desktop,Lenovo thinkpad,udp
+192.168.100.141,000393ignore,MS-DOS,v4,8972-32000,Camera,,http
+17.249.12.159,00012Aignore,64-Bit Journaling File System,v5,80-484,Desktop,,udp
+172.217.9.202,000502ignore,Unix,v1,80-484,Laptop,,tcp
+192.168.100.226,000A27ignore,64-Bit Journaling File System,v3,80-484,Desktop,Apple,http
+40.97.120.146,000A27ignore,64-Bit Journaling File System,v1,8080-9000,Laptop,,generic
+52.109.124.24,000A27ignore,Mac OS X,v3,22-500,Coffee Machine,Apple,generic
+172.217.7.195,00012Aignore,MS-DOS,v4,4000-5676,Laptop,,generic
+192.168.100.145,00012Aignore,64-Bit Journaling File System,v3,8972-32000,Coffee Machine,,udp
+192.168.100.5,000393ignore,Unix,v2,8080-9000,Desktop,Lenovo thinkpad,http
+17.253.3.210,000502ignore,64-Bit Journaling File System,v2,22-500,Mobile,Lenovo,http
+172.217.7.162,000502ignore,64-Bit Journaling File System,v4,27000-60000,Desktop,MBP,generic
+17.142.171.13,00012Aignore,Mac OS X,v4,22-500,Desktop,MBP,tcp
+192.168.100.171,000393ignore,Ubuntu,v5,443-677,Mobile,Lenovo thinkpad,http
+192.168.100.238,00012Aignore,The Shell Terminal,v5,27000-60000,Camera,Lenovo thinkpad,tcp
+206.117.11.14,000393ignore,NeXTSTEP,v5,4000-5676,Camera,Apple,udp
+52.109.20.4,00012Aignore,Time Machine,v4,27000-60000,Desktop,Lenovo,generic
+34.198.16.70,000393ignore,BeOS,v5,80-484,Laptop,Apple,generic
+192.168.100.123,000502ignore,The Shell Terminal,v3,8080-9000,Desktop,Lenovo,generic
+192.168.100.147,00012Aignore,64-Bit Journaling File System,v5,8972-32000,Coffee Machine,Lenovo,generic
+17.142.171.12,00012Aignore,Unix,v3,27000-60000,Coffee Machine,Apple,generic
+40.97.164.146,00012Aignore,MS-DOS,v4,27000-60000,Camera,Apple,tcp
+192.168.100.110,000502ignore,The Shell Terminal,v4,4000-5676,Mobile,Lenovo,tcp
+108.174.10.10,000A27ignore,NeXTSTEP,v1,4000-5676,Camera,Apple,tcp
+74.125.197.188,000A27ignore,Ubuntu,v3,8080-9000,Camera,Lenovo thinkpad,generic
+172.217.133.42,00012Aignore,MS-DOS,v3,22-500,Coffee Machine,,udp
+40.121.213.159,000502ignore,Ubuntu,v2,4000-5676,Desktop,Lenovo thinkpad,http
+216.58.218.227,00012Aignore,BeOS,v5,4000-5676,Coffee Machine,Apple,generic
+63.234.70.121,000A27ignore,Ubuntu,v5,22-500,Camera,MBP,http
+40.97.190.18,000393ignore,Mac OS X,v3,4000-5676,Coffee Machine,,tcp
+172.217.13.66,000A27ignore,NeXTSTEP,v5,443-677,Laptop,,http
+172.230.149.45,00012Aignore,MS-DOS,v3,22-500,Desktop,,http
