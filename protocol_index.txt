@@ -1,0 +1,1 @@
+{"IGMPv3": 6, "UDP": 1, "Unk": 10, "LLMNR": 7, "TLSv1.2": 5, "MDNS": 8, "TCP": 0, "NBNS": 4, "QUIC": 9, "SSDP": 2, "ICMP": 3}
