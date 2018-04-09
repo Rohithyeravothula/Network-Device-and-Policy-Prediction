@@ -39,7 +39,9 @@ Apply further policies to decide if we block the transaction or allow it to cont
       Achieved 87.8% F1 score and 88.0% precision
       
 We tested these models individually on a test set with 650,000+ transactions of which there were 4 known amlicious packets to be identified.
-    
+
+### Results
+
 Results of each model are as follows:-
     
   |     Model    | Count of Bad Packets detected | Count of Bad packets blocked |
